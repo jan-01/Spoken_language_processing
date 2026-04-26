@@ -24,7 +24,7 @@ miniconda3/
 
 # Model checkpoints (too large)
 hifi-gan-checkpoint/
-DaftExprt_LJ_ESD_22kHz/
+DaftExprt_LJ_ESD_22kHz
 ubisoft-laforge-daft-exprt/
 hifi-gan/
 
