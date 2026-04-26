@@ -31,8 +31,6 @@ This project evaluates the prosody transfer capabilities of **Daft-Exprt**, a re
 │   ├── topical_emphasis/
 │   └── summary.csv               # Per-item acoustic measurements
 │
-├── demo/                         # Demo synthesis outputs
-│
 ├── adept_synthesis.py            # Synthesises ADEPT utterances via Daft-Exprt
 ├── adept_vocode.py               # Applies HiFi-GAN vocoder to mel spectrograms
 ├── adept_analysis.py             # Extracts F0 and duration with Parselmouth/Praat
@@ -41,7 +39,7 @@ This project evaluates the prosody transfer capabilities of **Daft-Exprt**, a re
 │
 ├── adept_wer_results.txt         # Per-file WER and CER results
 ├── adept_synthesis.log           # Synthesis run log
-└── paper_prosody_transfer.md     # Full written report
+└── prosody_transfer_report.pdf   # Full written report
 ```
 
 ---
@@ -108,4 +106,4 @@ This project evaluates the prosody transfer capabilities of **Daft-Exprt**, a re
 
 ## Report
 
-The full written analysis is in [`paper_prosody_transfer.md`](paper_prosody_transfer.md), covering methodology, per-category acoustic results, intelligibility analysis, and discussion of the model's global vs. local prosody transfer capabilities.
+The full written analysis is in [`prosody_transfer_report.pdf`](prosody_transfer_report.pdf), covering methodology, per-category acoustic results, intelligibility analysis, and discussion of the model's global vs. local prosody transfer capabilities.
