@@ -1,0 +1,33 @@
+# System / home dir
+.anaconda/
+.bash_history
+.bashrc
+.cache/
+.claude.json
+.claude/
+.conda/
+.config/
+.copilot/
+.dotnet/
+.gitconfig
+.motd_shown
+.profile
+.vscode-remote-containers/
+.vscode-server/
+.wget-hsts
+Documents/
+
+# Python
+__pycache__/
+*.pyc
+miniconda3/
+
+# Model checkpoints (too large)
+hifi-gan-checkpoint/
+DaftExprt_LJ_ESD_22kHz/
+ubisoft-laforge-daft-exprt/
+hifi-gan/
+
+# Archives
+adept.zip
+demo.zip

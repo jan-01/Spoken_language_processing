@@ -1,0 +1,116 @@
+File	Category	Ground Truth	Transcription	WER	CER
+ad00_0000_spk_0_ref_ad00_0000_hifigan.wav	emotion/anger	She's been fired!	She's been fired.	0.000	0.000
+ad00_0001_spk_0_ref_ad00_0001_hifigan.wav	emotion/anger	The office is on the top floor!	The office is on the top floor.	0.000	0.000
+ad00_0002_spk_0_ref_ad00_0002_hifigan.wav	emotion/anger	There are two of them!	There are two of them.	0.000	0.000
+ad00_0003_spk_0_ref_ad00_0003_hifigan.wav	emotion/anger	Look at that puppy!	Look at that puppy!	0.000	0.000
+ad00_0004_spk_0_ref_ad00_0004_hifigan.wav	emotion/anger	This report is due tomorrow!	This report is due tomorrow.	0.000	0.000
+ad01_0000_spk_0_ref_ad01_0000_hifigan.wav	emotion/anger	The leaves are changing colours!	The leaves are change in colors.	0.600	0.129
+ad01_0001_spk_0_ref_ad01_0001_hifigan.wav	emotion/anger	The office is on the top floor!	The office is on the top floor.	0.000	0.000
+ad01_0002_spk_0_ref_ad01_0002_hifigan.wav	emotion/anger	This report is due tomorrow!	This report is due tomorrow.	0.000	0.000
+ad01_0003_spk_0_ref_ad01_0003_hifigan.wav	emotion/anger	Larry brought a chardonnay!	Larry brought a shortening.	0.250	0.269
+ad01_0004_spk_0_ref_ad01_0004_hifigan.wav	emotion/anger	Look at that puppy!	Look at that puppy.	0.000	0.000
+ad00_0000_spk_0_ref_ad00_0000_hifigan.wav	emotion/fear	She's been fired.	She's been fired!	0.000	0.000
+ad00_0001_spk_0_ref_ad00_0001_hifigan.wav	emotion/fear	The office is on the top floor.	The office is on the top floor!	0.000	0.000
+ad00_0002_spk_0_ref_ad00_0002_hifigan.wav	emotion/fear	There are two of them.	There are two of them!	0.000	0.000
+ad00_0003_spk_0_ref_ad00_0003_hifigan.wav	emotion/fear	Look at that puppy.	Look at that puppy!	0.000	0.000
+ad00_0004_spk_0_ref_ad00_0004_hifigan.wav	emotion/fear	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0000_spk_0_ref_ad01_0000_hifigan.wav	emotion/fear	The leaves are changing colours.	The leaves are changing colors.	0.200	0.032
+ad01_0001_spk_0_ref_ad01_0001_hifigan.wav	emotion/fear	The office is on the top floor.	The office is on the top floor.	0.000	0.000
+ad01_0002_spk_0_ref_ad01_0002_hifigan.wav	emotion/fear	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0003_spk_0_ref_ad01_0003_hifigan.wav	emotion/fear	Larry brought a chardonnay.	Larry brought a shard in the...	0.750	0.269
+ad01_0004_spk_0_ref_ad01_0004_hifigan.wav	emotion/fear	Look at that puppy.	Look at that puppy.	0.000	0.000
+ad00_0000_spk_0_ref_ad00_0000_hifigan.wav	emotion/joy	She's been fired!	She's been fired!	0.000	0.000
+ad00_0001_spk_0_ref_ad00_0001_hifigan.wav	emotion/joy	The office is on the top floor!	The office is on the top floor!	0.000	0.000
+ad00_0002_spk_0_ref_ad00_0002_hifigan.wav	emotion/joy	There are two of them!	There are two of them!	0.000	0.000
+ad00_0003_spk_0_ref_ad00_0003_hifigan.wav	emotion/joy	Look at that puppy!	Look at that puppy!	0.000	0.000
+ad00_0004_spk_0_ref_ad00_0004_hifigan.wav	emotion/joy	This report is due tomorrow!	This report is due tomorrow.	0.000	0.000
+ad01_0000_spk_0_ref_ad01_0000_hifigan.wav	emotion/joy	The leaves are changing colours!	The leaves are changing colors.	0.200	0.032
+ad01_0001_spk_0_ref_ad01_0001_hifigan.wav	emotion/joy	The office is on the top floor!	The office is on the top floor.	0.000	0.000
+ad01_0002_spk_0_ref_ad01_0002_hifigan.wav	emotion/joy	This report is due tomorrow!	This report is due tomorrow.	0.000	0.000
+ad01_0003_spk_0_ref_ad01_0003_hifigan.wav	emotion/joy	Larry brought a chardonnay!	Larry brought a short name.	0.500	0.269
+ad01_0004_spk_0_ref_ad01_0004_hifigan.wav	emotion/joy	Look at that puppy!	Look at that puppy.	0.000	0.000
+ad00_0000_spk_0_ref_ad00_0000_hifigan.wav	emotion/neutral	She's been fired.	She's been fired.	0.000	0.000
+ad00_0001_spk_0_ref_ad00_0001_hifigan.wav	emotion/neutral	The office is on the top floor.	Belfast is on the top floor.	0.286	0.267
+ad00_0002_spk_0_ref_ad00_0002_hifigan.wav	emotion/neutral	There are two of them.	There are two of them.	0.000	0.000
+ad00_0003_spk_0_ref_ad00_0003_hifigan.wav	emotion/neutral	Look at that puppy.	Look at that puppy.	0.000	0.000
+ad00_0004_spk_0_ref_ad00_0004_hifigan.wav	emotion/neutral	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0000_spk_0_ref_ad01_0000_hifigan.wav	emotion/neutral	The leaves are changing colours.	The leaves are changing colors.	0.200	0.032
+ad01_0001_spk_0_ref_ad01_0001_hifigan.wav	emotion/neutral	The office is on the top floor.	The office is on the top floor.	0.000	0.000
+ad01_0002_spk_0_ref_ad01_0002_hifigan.wav	emotion/neutral	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0003_spk_0_ref_ad01_0003_hifigan.wav	emotion/neutral	Larry brought a chardonnay.	Larry brought a short name.	0.500	0.269
+ad01_0004_spk_0_ref_ad01_0004_hifigan.wav	emotion/neutral	Look at that puppy.	Look at that puppy.	0.000	0.000
+ad00_0000_spk_0_ref_ad00_0000_hifigan.wav	emotion/sadness	She's been fired.	She's been fired.	0.000	0.000
+ad00_0001_spk_0_ref_ad00_0001_hifigan.wav	emotion/sadness	The office is on the top floor.	The office is on the top floor.	0.000	0.000
+ad00_0002_spk_0_ref_ad00_0002_hifigan.wav	emotion/sadness	There are two of them.	There are two of them.	0.000	0.000
+ad00_0003_spk_0_ref_ad00_0003_hifigan.wav	emotion/sadness	Look at that puppy.	Look at that puppy!	0.000	0.000
+ad00_0004_spk_0_ref_ad00_0004_hifigan.wav	emotion/sadness	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0000_spk_0_ref_ad01_0000_hifigan.wav	emotion/sadness	The leaves are changing colours.	the leaves are changing colors.	0.200	0.032
+ad01_0001_spk_0_ref_ad01_0001_hifigan.wav	emotion/sadness	The office is on the top floor.	The office is on the top floor.	0.000	0.000
+ad01_0002_spk_0_ref_ad01_0002_hifigan.wav	emotion/sadness	This report is due tomorrow.	This report is due tomorrow.	0.000	0.000
+ad01_0003_spk_0_ref_ad01_0003_hifigan.wav	emotion/sadness	Larry brought a chardonnay.	Larry brought a short name.	0.500	0.269
+ad01_0004_spk_0_ref_ad01_0004_hifigan.wav	emotion/sadness	Look at that puppy.	Look at that puppy.	0.000	0.000
+ad00_0200_spk_0_ref_ad00_0200_hifigan.wav	propositional_attitude/incredulity	There's coriander in this soup?	There's coriander in this soup!	0.000	0.000
+ad00_0201_spk_0_ref_ad00_0201_hifigan.wav	propositional_attitude/incredulity	Billy ate all the cookies?	Billy, ain't all the craze!	0.400	0.320
+ad00_0202_spk_0_ref_ad00_0202_hifigan.wav	propositional_attitude/incredulity	Jose won best dressed?	Who's a one best dressed?	0.750	0.286
+ad00_0203_spk_0_ref_ad00_0203_hifigan.wav	propositional_attitude/incredulity	This proposal is excellent?	This proposal is excellent.	0.000	0.000
+ad00_0204_spk_0_ref_ad00_0204_hifigan.wav	propositional_attitude/incredulity	Lizzie is a princess?	This is a princess.	0.250	0.250
+ad01_0200_spk_0_ref_ad01_0200_hifigan.wav	propositional_attitude/incredulity	The crab is delicious?	The crab is delicious.	0.000	0.000
+ad01_0201_spk_0_ref_ad01_0201_hifigan.wav	propositional_attitude/incredulity	We can go fishing tomorrow?	We can go fishing tomorrow.	0.000	0.000
+ad01_0202_spk_0_ref_ad01_0202_hifigan.wav	propositional_attitude/incredulity	This proposal is excellent?	This proposal is excellent.	0.000	0.000
+ad01_0203_spk_0_ref_ad01_0203_hifigan.wav	propositional_attitude/incredulity	They fly to London?	they fly to London	0.000	0.000
+ad01_0204_spk_0_ref_ad01_0204_hifigan.wav	propositional_attitude/incredulity	This train goes through Cambridge?	This train goes through Cambridge.	0.000	0.000
+ad00_0200_spk_0_ref_ad00_0200_hifigan.wav	propositional_attitude/neutral	There's coriander in this soup.	There's coriander in the soup.	0.200	0.069
+ad00_0201_spk_0_ref_ad00_0201_hifigan.wav	propositional_attitude/neutral	Billy ate all the cookies.	Billy ate all the cookies.	0.000	0.000
+ad00_0202_spk_0_ref_ad00_0202_hifigan.wav	propositional_attitude/neutral	Jose won best dressed.	Jose Won Best Dressed.	0.000	0.000
+ad00_0203_spk_0_ref_ad00_0203_hifigan.wav	propositional_attitude/neutral	This proposal is excellent.	This proposal is excellent.	0.000	0.000
+ad00_0204_spk_0_ref_ad00_0204_hifigan.wav	propositional_attitude/neutral	Lizzie is a princess.	Lizzie is a princess.	0.000	0.000
+ad01_0200_spk_0_ref_ad01_0200_hifigan.wav	propositional_attitude/neutral	The crab is delicious.	The crab is delicious.	0.000	0.000
+ad01_0201_spk_0_ref_ad01_0201_hifigan.wav	propositional_attitude/neutral	We can go fishing tomorrow.	We can go fishing tomorrow.	0.000	0.000
+ad01_0202_spk_0_ref_ad01_0202_hifigan.wav	propositional_attitude/neutral	This proposal is excellent.	This proposal is excellent.	0.000	0.000
+ad01_0203_spk_0_ref_ad01_0203_hifigan.wav	propositional_attitude/neutral	They fly to London.	They fly at the London.	0.500	0.278
+ad01_0204_spk_0_ref_ad01_0204_hifigan.wav	propositional_attitude/neutral	This train goes through Cambridge.	The string goes through Cambridge.	0.400	0.152
+ad01_0200_spk_0_ref_ad01_0200_hifigan.wav	propositional_attitude/sarcasm	The crab is delicious.	The crab is delicious.	0.000	0.000
+ad01_0201_spk_0_ref_ad01_0201_hifigan.wav	propositional_attitude/sarcasm	We can go fishing tomorrow.	We can go fishing tomorrow.	0.000	0.000
+ad01_0202_spk_0_ref_ad01_0202_hifigan.wav	propositional_attitude/sarcasm	This proposal is excellent.	This proposal is excellent.	0.000	0.000
+ad01_0203_spk_0_ref_ad01_0203_hifigan.wav	propositional_attitude/sarcasm	They fly to London.	They fly to London.	0.000	0.000
+ad01_0204_spk_0_ref_ad01_0204_hifigan.wav	propositional_attitude/sarcasm	This train goes through Cambridge.	This train goes through Cambridge.	0.000	0.000
+ad00_0200_spk_0_ref_ad00_0200_hifigan.wav	propositional_attitude/surprise	There's coriander in this soup!	There's Corander in the soup.	0.400	0.103
+ad00_0201_spk_0_ref_ad00_0201_hifigan.wav	propositional_attitude/surprise	Billy ate all the cookies!	Bentley ate all the cookies!	0.200	0.160
+ad00_0202_spk_0_ref_ad00_0202_hifigan.wav	propositional_attitude/surprise	Jose won best dressed!	Who's a one best dressed?	0.750	0.286
+ad00_0203_spk_0_ref_ad00_0203_hifigan.wav	propositional_attitude/surprise	This proposal is excellent!	This proposal is excellent!	0.000	0.000
+ad00_0204_spk_0_ref_ad00_0204_hifigan.wav	propositional_attitude/surprise	Lizzie is a princess!	Blizzy is a princess!	0.250	0.150
+ad01_0200_spk_0_ref_ad01_0200_hifigan.wav	propositional_attitude/surprise	The crab is delicious!	The crab is delicious.	0.000	0.000
+ad01_0201_spk_0_ref_ad01_0201_hifigan.wav	propositional_attitude/surprise	We can go fishing tomorrow!	We can go fishing tomorrow.	0.000	0.000
+ad01_0202_spk_0_ref_ad01_0202_hifigan.wav	propositional_attitude/surprise	This proposal is excellent!	This proposal is excellent.	0.000	0.000
+ad01_0203_spk_0_ref_ad01_0203_hifigan.wav	propositional_attitude/surprise	They fly to London!	They've fly to London.	0.250	0.111
+ad01_0204_spk_0_ref_ad01_0204_hifigan.wav	propositional_attitude/surprise	This train goes through Cambridge!	This train goes through Cambridge.	0.000	0.000
+ad00_0100_spk_0_ref_ad00_0100_hifigan.wav	topical_emphasis/beginning	Vegans eat avocado with toast.	Vegan he's avocado with toast.	0.400	0.138
+ad00_0101_spk_0_ref_ad00_0101_hifigan.wav	topical_emphasis/beginning	Devang invited his parents to stay.	Did Vang invited his parents to stay?	0.333	0.088
+ad00_0102_spk_0_ref_ad00_0102_hifigan.wav	topical_emphasis/beginning	Don pulls pranks on everyone.	Don Pohl's pranks on everyone.	0.200	0.071
+ad00_0103_spk_0_ref_ad00_0103_hifigan.wav	topical_emphasis/beginning	Builders put scaffolding around the windows.	Builders put scaffolding around the windows.	0.000	0.000
+ad00_0104_spk_0_ref_ad00_0104_hifigan.wav	topical_emphasis/beginning	Michael drinks his tea with milk.	Michael drinks his tea with milk.	0.000	0.000
+ad01_0100_spk_0_ref_ad01_0100_hifigan.wav	topical_emphasis/beginning	Hannah doesn't work on Thursdays.	Hannah doesn't work on Thursdays.	0.000	0.000
+ad01_0101_spk_0_ref_ad01_0101_hifigan.wav	topical_emphasis/beginning	Jesse dunked the basketball in the hoop.	Jesse don't, the basket ball in the hoop.	0.429	0.128
+ad01_0102_spk_0_ref_ad01_0102_hifigan.wav	topical_emphasis/beginning	Laura lit the candles for Hanukkah.	more lit the candles for Hanukkah.	0.167	0.118
+ad01_0103_spk_0_ref_ad01_0103_hifigan.wav	topical_emphasis/beginning	Tony wears a helmet whilst skating.	Tony, where's a helmet whilst skating?	0.167	0.088
+ad01_0104_spk_0_ref_ad01_0104_hifigan.wav	topical_emphasis/beginning	Galleries are free on Thursdays.	Galeries are free on Thursdays.	0.200	0.032
+ad00_0100_spk_0_ref_ad00_0100_hifigan.wav	topical_emphasis/end	Vegans eat avocado with toast.	Vegan ETH avocado with toast!	0.400	0.103
+ad00_0101_spk_0_ref_ad00_0101_hifigan.wav	topical_emphasis/end	Devang invited his parents to stay.	DeVang invited his parents to stay.	0.000	0.000
+ad00_0102_spk_0_ref_ad00_0102_hifigan.wav	topical_emphasis/end	Don pulls pranks on everyone.	Done, polls, pranks on everyone!	0.400	0.071
+ad00_0103_spk_0_ref_ad00_0103_hifigan.wav	topical_emphasis/end	Builders put scaffolding around the windows.	Builders put scaffolding around the windows.	0.000	0.000
+ad00_0104_spk_0_ref_ad00_0104_hifigan.wav	topical_emphasis/end	Michael drinks his tea with milk.	Michael drinks his tea with milk.	0.000	0.000
+ad01_0100_spk_0_ref_ad01_0100_hifigan.wav	topical_emphasis/end	Hannah doesn't work on Thursdays.	Hannah doesn't work on Thursdays.	0.000	0.000
+ad01_0101_spk_0_ref_ad01_0101_hifigan.wav	topical_emphasis/end	Jesse dunked the basketball in the hoop.	Jesse dunked the basketball in the hoop.	0.000	0.000
+ad01_0102_spk_0_ref_ad01_0102_hifigan.wav	topical_emphasis/end	Laura lit the candles for Hanukkah.	Lord, lead the candles for Hanukkah.	0.333	0.176
+ad01_0103_spk_0_ref_ad01_0103_hifigan.wav	topical_emphasis/end	Tony wears a helmet whilst skating.	Tony wears a helmet whilst skating.	0.000	0.000
+ad01_0104_spk_0_ref_ad01_0104_hifigan.wav	topical_emphasis/end	Galleries are free on Thursdays.	Gellries are free on Thursdays.	0.200	0.065
+ad00_0100_spk_0_ref_ad00_0100_hifigan.wav	topical_emphasis/middle	Vegans eat avocado with toast.	They can eat avocado with toast.	0.400	0.207
+ad00_0101_spk_0_ref_ad00_0101_hifigan.wav	topical_emphasis/middle	Devang invited his parents to stay.	DeVang invited his parents to stay.	0.000	0.000
+ad00_0102_spk_0_ref_ad00_0102_hifigan.wav	topical_emphasis/middle	Don pulls pranks on everyone.	Don pulls pranks on everyone.	0.000	0.000
+ad00_0103_spk_0_ref_ad00_0103_hifigan.wav	topical_emphasis/middle	Builders put scaffolding around the windows.	Builders put scaffolding around the windows.	0.000	0.000
+ad00_0104_spk_0_ref_ad00_0104_hifigan.wav	topical_emphasis/middle	Michael drinks his tea with milk.	Michael drinks his tea with milk.	0.000	0.000
+ad01_0100_spk_0_ref_ad01_0100_hifigan.wav	topical_emphasis/middle	Hannah doesn't work on Thursdays.	Hannah doesn't work on Thursdays.	0.000	0.000
+ad01_0101_spk_0_ref_ad01_0101_hifigan.wav	topical_emphasis/middle	Jesse dunked the basketball in the hoop.	Jesse dunked the basket ball in the hoop.	0.286	0.026
+ad01_0102_spk_0_ref_ad01_0102_hifigan.wav	topical_emphasis/middle	Laura lit the candles for Hanukkah.	Laurel it the candles for Hanuk.	0.500	0.176
+ad01_0103_spk_0_ref_ad01_0103_hifigan.wav	topical_emphasis/middle	Tony wears a helmet whilst skating.	Tony wears a helmet whilst skating.	0.000	0.000
+ad01_0104_spk_0_ref_ad01_0104_hifigan.wav	topical_emphasis/middle	Galleries are free on Thursdays.	Gellries are free on Thursdays.	0.200	0.065

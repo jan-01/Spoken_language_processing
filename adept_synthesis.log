@@ -1,0 +1,589 @@
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/miniconda3/envs/daft_exprt/lib/python3.8/site-packages/torch/functional.py:641: UserWarning: stft with return_complex=False is deprecated. In a future pytorch release, stft will return complex tensors for all inputs, and return_complex=False will raise an error.
+Note: you can still call torch.view_as_real on the complex output to recover the old return format. (Triggered internally at ../aten/src/ATen/native/SpectralOps.cpp:862.)
+  return _VF.stft(input, n_fft, hop_length, win_length, window,  # type: ignore[attr-defined]
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+Loading model...
+Model loaded.
+
+Total synthesis jobs: 115
+
+Extracting reference parameters...
+  115 reference files processed.
+[1/115] emotion/anger/ad00_0000  "She's been fired."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/extract_features.py:345: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)  # (n_mels, 1 + n_fft/2)
+/root/miniconda3/envs/daft_exprt/lib/python3.8/site-packages/torch/nn/modules/conv.py:309: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv1d(input, weight, bias, self.stride,
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[2/115] emotion/anger/ad00_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[3/115] emotion/anger/ad00_0002  "There are two of them."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[4/115] emotion/anger/ad00_0003  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[5/115] emotion/anger/ad00_0004  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[6/115] emotion/anger/ad01_0000  "The leaves are changing colours."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[7/115] emotion/anger/ad01_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[8/115] emotion/anger/ad01_0002  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[9/115] emotion/anger/ad01_0003  "Larry brought a chardonnay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[10/115] emotion/anger/ad01_0004  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[11/115] emotion/fear/ad00_0000  "She's been fired."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[12/115] emotion/fear/ad00_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[13/115] emotion/fear/ad00_0002  "There are two of them."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[14/115] emotion/fear/ad00_0003  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[15/115] emotion/fear/ad00_0004  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[16/115] emotion/fear/ad01_0000  "The leaves are changing colours."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[17/115] emotion/fear/ad01_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[18/115] emotion/fear/ad01_0002  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[19/115] emotion/fear/ad01_0003  "Larry brought a chardonnay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[20/115] emotion/fear/ad01_0004  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[21/115] emotion/joy/ad00_0000  "She's been fired."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[22/115] emotion/joy/ad00_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[23/115] emotion/joy/ad00_0002  "There are two of them."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[24/115] emotion/joy/ad00_0003  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[25/115] emotion/joy/ad00_0004  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[26/115] emotion/joy/ad01_0000  "The leaves are changing colours."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[27/115] emotion/joy/ad01_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[28/115] emotion/joy/ad01_0002  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[29/115] emotion/joy/ad01_0003  "Larry brought a chardonnay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[30/115] emotion/joy/ad01_0004  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[31/115] emotion/neutral/ad00_0000  "She's been fired."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[32/115] emotion/neutral/ad00_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[33/115] emotion/neutral/ad00_0002  "There are two of them."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[34/115] emotion/neutral/ad00_0003  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[35/115] emotion/neutral/ad00_0004  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[36/115] emotion/neutral/ad01_0000  "The leaves are changing colours."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[37/115] emotion/neutral/ad01_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[38/115] emotion/neutral/ad01_0002  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[39/115] emotion/neutral/ad01_0003  "Larry brought a chardonnay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[40/115] emotion/neutral/ad01_0004  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[41/115] emotion/sadness/ad00_0000  "She's been fired."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[42/115] emotion/sadness/ad00_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[43/115] emotion/sadness/ad00_0002  "There are two of them."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[44/115] emotion/sadness/ad00_0003  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[45/115] emotion/sadness/ad00_0004  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[46/115] emotion/sadness/ad01_0000  "The leaves are changing colours."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[47/115] emotion/sadness/ad01_0001  "The office is on the top floor."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[48/115] emotion/sadness/ad01_0002  "This report is due tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[49/115] emotion/sadness/ad01_0003  "Larry brought a chardonnay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[50/115] emotion/sadness/ad01_0004  "Look at that puppy."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[51/115] topical_emphasis/beginning/ad00_0100  "Vegans eat avocado with toast."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[52/115] topical_emphasis/beginning/ad00_0101  "Devang invited his parents to stay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[53/115] topical_emphasis/beginning/ad00_0102  "Don pulls pranks on everyone."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[54/115] topical_emphasis/beginning/ad00_0103  "Builders put scaffolding around the windows."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[55/115] topical_emphasis/beginning/ad00_0104  "Michael drinks his tea with milk."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[56/115] topical_emphasis/beginning/ad01_0100  "Hannah doesn't work on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[57/115] topical_emphasis/beginning/ad01_0101  "Jesse dunked the basketball in the hoop."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[58/115] topical_emphasis/beginning/ad01_0102  "Laura lit the candles for Hanukkah."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[59/115] topical_emphasis/beginning/ad01_0103  "Tony wears a helmet whilst skating."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[60/115] topical_emphasis/beginning/ad01_0104  "Galleries are free on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[61/115] topical_emphasis/middle/ad00_0100  "Vegans eat avocado with toast."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[62/115] topical_emphasis/middle/ad00_0101  "Devang invited his parents to stay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[63/115] topical_emphasis/middle/ad00_0102  "Don pulls pranks on everyone."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[64/115] topical_emphasis/middle/ad00_0103  "Builders put scaffolding around the windows."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[65/115] topical_emphasis/middle/ad00_0104  "Michael drinks his tea with milk."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[66/115] topical_emphasis/middle/ad01_0100  "Hannah doesn't work on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[67/115] topical_emphasis/middle/ad01_0101  "Jesse dunked the basketball in the hoop."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[68/115] topical_emphasis/middle/ad01_0102  "Laura lit the candles for Hanukkah."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[69/115] topical_emphasis/middle/ad01_0103  "Tony wears a helmet whilst skating."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[70/115] topical_emphasis/middle/ad01_0104  "Galleries are free on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[71/115] topical_emphasis/end/ad00_0100  "Vegans eat avocado with toast."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[72/115] topical_emphasis/end/ad00_0101  "Devang invited his parents to stay."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[73/115] topical_emphasis/end/ad00_0102  "Don pulls pranks on everyone."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[74/115] topical_emphasis/end/ad00_0103  "Builders put scaffolding around the windows."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[75/115] topical_emphasis/end/ad00_0104  "Michael drinks his tea with milk."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[76/115] topical_emphasis/end/ad01_0100  "Hannah doesn't work on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[77/115] topical_emphasis/end/ad01_0101  "Jesse dunked the basketball in the hoop."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[78/115] topical_emphasis/end/ad01_0102  "Laura lit the candles for Hanukkah."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[79/115] topical_emphasis/end/ad01_0103  "Tony wears a helmet whilst skating."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[80/115] topical_emphasis/end/ad01_0104  "Galleries are free on Thursdays."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[81/115] propositional_attitude/incredulity/ad00_0200  "There's coriander in this soup."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[82/115] propositional_attitude/incredulity/ad00_0201  "Billy ate all the cookies."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[83/115] propositional_attitude/incredulity/ad00_0202  "Jose won best dressed."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[84/115] propositional_attitude/incredulity/ad00_0203  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[85/115] propositional_attitude/incredulity/ad00_0204  "Lizzie is a princess."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[86/115] propositional_attitude/incredulity/ad01_0200  "The crab is delicious."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[87/115] propositional_attitude/incredulity/ad01_0201  "We can go fishing tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[88/115] propositional_attitude/incredulity/ad01_0202  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[89/115] propositional_attitude/incredulity/ad01_0203  "They fly to London."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[90/115] propositional_attitude/incredulity/ad01_0204  "This train goes through Cambridge."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[91/115] propositional_attitude/neutral/ad00_0200  "There's coriander in this soup."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[92/115] propositional_attitude/neutral/ad00_0201  "Billy ate all the cookies."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[93/115] propositional_attitude/neutral/ad00_0202  "Jose won best dressed."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[94/115] propositional_attitude/neutral/ad00_0203  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[95/115] propositional_attitude/neutral/ad00_0204  "Lizzie is a princess."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[96/115] propositional_attitude/neutral/ad01_0200  "The crab is delicious."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[97/115] propositional_attitude/neutral/ad01_0201  "We can go fishing tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[98/115] propositional_attitude/neutral/ad01_0202  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[99/115] propositional_attitude/neutral/ad01_0203  "They fly to London."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[100/115] propositional_attitude/neutral/ad01_0204  "This train goes through Cambridge."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[101/115] propositional_attitude/sarcasm/ad01_0200  "The crab is delicious."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[102/115] propositional_attitude/sarcasm/ad01_0201  "We can go fishing tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[103/115] propositional_attitude/sarcasm/ad01_0202  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[104/115] propositional_attitude/sarcasm/ad01_0203  "They fly to London."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[105/115] propositional_attitude/sarcasm/ad01_0204  "This train goes through Cambridge."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[106/115] propositional_attitude/surprise/ad00_0200  "There's coriander in this soup."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[107/115] propositional_attitude/surprise/ad00_0201  "Billy ate all the cookies."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[108/115] propositional_attitude/surprise/ad00_0202  "Jose won best dressed."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[109/115] propositional_attitude/surprise/ad00_0203  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[110/115] propositional_attitude/surprise/ad00_0204  "Lizzie is a princess."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[111/115] propositional_attitude/surprise/ad01_0200  "The crab is delicious."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[112/115] propositional_attitude/surprise/ad01_0201  "We can go fishing tomorrow."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[113/115] propositional_attitude/surprise/ad01_0202  "This proposal is excellent."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[114/115] propositional_attitude/surprise/ad01_0203  "They fly to London."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+[115/115] propositional_attitude/surprise/ad01_0204  "This train goes through Cambridge."
+/root/ubisoft-laforge-daft-exprt/src/daft_exprt/griffin_lim.py:111: FutureWarning: Pass sr=22050, n_fft=1024, n_mels=80, fmin=0, fmax=8000 as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel_filter_bank = librosa_mel_fn(hparams.sampling_rate, hparams.filter_length, n_mels, hparams.mel_fmin, hparams.mel_fmax)
+
+Done. Outputs in /root/adept_output/
